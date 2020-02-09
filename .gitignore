@@ -1,0 +1,4 @@
+auth/node_modules/
+gateway/node_modules/
+lib/logger/node_modules/
+logServer/node_modules/
